@@ -34,4 +34,4 @@ Full Stack & Shopify Engineer building high‑performance ecommerce and healthca
 - ✉️ Email: `sumerdabby123@gmail.com`
 - 🌍 Location: Mohali, India
 
-> _Passionate about building fast, reliable, and conversion‑driven products that make a real business impact.
+Passionate about building fast, reliable, and conversion‑driven products that make a real business impact.
